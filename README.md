@@ -1,4 +1,6 @@
-This is a simple todo app. This project is an application I made to improve myself in flutter programming.
+This is a simple todo app. 
+
+This project is an application I made to improve myself in flutter programming.
 
 ## App UI
 ![resim](https://user-images.githubusercontent.com/56155975/117581379-15957000-b105-11eb-8e0f-8d7cf63b2693.png)
